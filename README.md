@@ -22,8 +22,8 @@ If you would like to use this Shiny app, please click the button below:
 ### Group Members/ Authors ### 
 
 -   **Te-Jou Hou** —
-    [LinkedIn](%7B%7Bwww.linkedin.com/in/te-jou-hou%7D%7D) ·
-    [Email](mailto:%7B%7Bth5955a@american.edu%7D%7D)
+    [LinkedIn](https://www.linkedin.com/in/te-jou-hou) ·
+    [Email](mailto:th5955a@american.edu)
 
 -   **Fang-Yi Wu** 
 
